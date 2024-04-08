@@ -17,7 +17,7 @@
 * Aliyun ODPS/MaxCompute（敬请期待）
 * More+
 
-## 提供标准RESTFul操作接口，基于SQL语句屏蔽底层架构差异性，让数据的读/写更简单
+## 提供标准的RESTFul操作接口，基于标准的SQL语句屏蔽底层架构差异性，让数据的读/写更简单
 ### DolphinScheudler（分布式任务调度引擎）
 * 环境自检相关接口
   + DolphinScheduler组件运行环境自检
