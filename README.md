@@ -1,5 +1,5 @@
 # Balm（万金油-大数据PAAS组件适配器）
-## 基于Spring Boot打造，一键集成各种常用的大数据PAAS组件，简化对接成本，提升应用开发效率
+## 基于Spring Boot打造，一键集成各种常用的大数据PAAS组件，简化对接成本，提升应用开发效率，让业务实现更聚焦
 * [DolphinScheduler](https://github.com/apache/dolphinscheduler)（1.3.x）
 * [Hadoop](https://github.com/apache/hadoop)（2.x/3.x）
 * [Spark](https://github.com/apache/spark)（2.x/3.x）
@@ -17,7 +17,7 @@
 * Aliyun ODPS/MaxCompute（敬请期待）
 * More+
 
-## 提供标准的RESTFul操作接口，基于标准的SQL语句屏蔽底层架构差异性，让数据的读/写更简单
+## 提供标准的RESTFul操作接口，基于标准的SQL语句屏蔽底层架构差异性，让数据的读/写更简单，业务开发如搭积木般丝滑
 ### DolphinScheudler（分布式任务调度引擎）
 * 环境自检相关接口
   + DolphinScheduler组件运行环境自检
