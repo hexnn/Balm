@@ -100,7 +100,7 @@
   + Hive表数据随机抽样
 
 ## 快速部署
-* 最新版点击下载[balm-2024.03.15.jar](https://github.com/hexnn/balm/releases/download/balm-2024.04.08/balm-2024.04.08.jar)
+* 最新版点击下载[balm-2024.04.08.jar](https://github.com/hexnn/balm/releases/download/balm-2024.04.08/balm-2024.04.08.jar)
 * 根据需要对接组件的实际部署情况，按需修改application-xxx.yml
 * 上传服务器，一键启动：nohup java -jar balm-2024.04.08.jar > balm.log 2>&1 &
 * Swagger-ui地址：http://host:11011/balm
