@@ -91,13 +91,13 @@
   + SparkSQL自定义数据分析
 ### HBase（列式存储数据库）
 * 环境自检相关接口
-  + Hive组件运行环境自检
+  + HBase组件运行环境自检
 * 数仓操作相关接口
-  + Hive数仓表探查
-  + Hive表元数据探查
-  + Hive表数据导入
-  + Hive表数据下载
-  + Hive表数据随机抽样
+  + HBase数仓表探查
+  + HBase表元数据探查
+  + HBase表数据导入
+  + HBase表数据下载
+  + HBase表数据随机抽样
 
 ## 快速部署
 * 最新版点击下载[balm-2024.04.08.jar](https://github.com/hexnn/balm/releases/download/balm-2024.04.08/balm-2024.04.08.jar)
