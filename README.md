@@ -6,7 +6,7 @@
 * [Hive](https://github.com/apache/hive)（2.x/3.x）
 * Impala（敬请期待）
 * [HBase](https://github.com/apache/hbase)（1.x/2.x）
-* Kafka（敬请期待）
+* Kafka（2024.05即将上线）
 * StarRocks（敬请期待）
 * ClickHouse（敬请期待）
 * Presto（敬请期待）
@@ -101,13 +101,14 @@
   + HBase表数据随机抽样
 
 ## 快速部署
-* 最新版点击下载[balm-2024.04.08.jar](https://github.com/hexnn/balm/releases/download/balm-2024.04.08/balm-2024.04.08.jar)
-* 根据需要对接组件的实际部署情况，按需修改application-xxx.yml
-* 上传服务器，一键启动：nohup java -jar balm-2024.04.08.jar > balm.log 2>&1 &
-* Swagger-ui地址：http://host:11011/balm
+* 点击下载最新版[balm-2024.04.08.jar](https://github.com/hexnn/balm/releases/download/balm-2024.04.08/balm-2024.04.08.jar)
+* 修改application.yml文件spring.profiles.include参数，按需启用组件
+* 根据需要对接组件的实际部署情况，按需修改application-xxx.yml相关配置参数
+* 上传服务器，一键启动服务：nohup java -jar balm-2024.04.08.jar > balm.log 2>&1 &
+* Swagger-ui地址：http://$host:11011/balm
 
 ## 问题反馈
 * 详细部署手册、接口使用文档、二次开发指南请联系↓↓↓
 * WeChat：xxx-hx-xxx（潇湘夜雨）
 * Email：hexing_xx@163.com
-* 欢迎通过[Issues](https://github.com/hexnn/balm/issues)或以上联系方式提交问题或者建议
+* 欢迎通过[Issues](https://github.com/hexnn/balm/issues)或以上联系方式提交使用问题或者建议
