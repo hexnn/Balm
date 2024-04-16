@@ -7,6 +7,7 @@
 * Impala（敬请期待）
 * [HBase](https://github.com/apache/hbase)（1.x/2.x）
 * Kafka（2024.05即将上线）
+* Doris（敬请期待）
 * StarRocks（敬请期待）
 * ClickHouse（敬请期待）
 * Presto（敬请期待）
