@@ -15,6 +15,7 @@
 * Neo4j（敬请期待）
 * Redis（敬请期待）
 * ElasticSearch（敬请期待）
+* MinIO（敬请期待）
 * Aliyun OSS（敬请期待）
 * Aliyun ODPS/MaxCompute（敬请期待）
 * More+
